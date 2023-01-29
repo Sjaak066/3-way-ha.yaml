@@ -1,5 +1,5 @@
 blueprint:
-  name: Synchronize 3 States
+  name: Synchronize 3 Way simulate
   description: Bind Three switches together to act in unison 
   domain: automation
   input:
